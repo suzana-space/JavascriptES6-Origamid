@@ -6,3 +6,20 @@ function Pessoa(nome, idade){
     }
 }
 const pessoa = new Pessoa
+
+//Objetos nativos do Javascript. .. 
+Number 
+String
+Boolean
+Function
+Error
+TypeError
+Date
+Array
+//Objetos do Browser: 
+NodeList 
+HTMLCollection
+Element
+Window
+Document
+
