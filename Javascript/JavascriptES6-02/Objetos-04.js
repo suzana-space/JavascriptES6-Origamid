@@ -11,6 +11,11 @@ const comidas = ['banana','pão','figado',['agua','refri','limonada',['jujuba','
 console.log(comidas[3])
 console.log(comidas.length)
 
+//Usando Sort
+comidas.sort()
+console.log(comidas)
+
+
 
 
 
